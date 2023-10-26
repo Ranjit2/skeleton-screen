@@ -1,6 +1,7 @@
 # vueapp
 
-Read here:  https://medium.com/@ranjit2/enhancing-user-experience-with-css-skeleton-screens-in-vue-js-95cb820644a5
+Read here:  <a href="https://medium.com/@ranjit2/enhancing-user-experience-with-css-skeleton-screens-in-vue-js-95cb820644a5">Enhancing User Experience with CSS Skeleton Screens in Vue JS</a>
+
 <img src="https://github.com/Ranjit2/skeleton-screen/blob/main/ezgif-5-ab46a47ce3.gif">
 
 ## Recommended IDE Setup
