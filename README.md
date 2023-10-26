@@ -1,6 +1,6 @@
 # vueapp
 
-This template should help get you started developing with Vue 3 in Vite.
+Read here:  https://medium.com/@ranjit2/enhancing-user-experience-with-css-skeleton-screens-in-vue-js-95cb820644a5
 <img src="https://github.com/Ranjit2/skeleton-screen/blob/main/ezgif-5-ab46a47ce3.gif">
 
 ## Recommended IDE Setup
