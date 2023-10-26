@@ -1,6 +1,7 @@
 # vueapp
 
 This template should help get you started developing with Vue 3 in Vite.
+<img src="https://github.com/Ranjit2/skeleton-screen/blob/main/ezgif-5-ab46a47ce3.gif">
 
 ## Recommended IDE Setup
 
